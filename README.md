@@ -243,3 +243,9 @@ structure of the surveys and responses.
 ### Get reports
 
 ![](https://raw.githubusercontent.com/kjayma/surveyor_gui/screenshots/Screenshot%20from%202014-09-16%2017:04:41.png)
+
+
+
+
+
+Muskannnnnnnnnn
